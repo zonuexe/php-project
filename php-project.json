@@ -1,0 +1,10 @@
+{
+    "metadata": {
+        "name": "zonuexe/php-project",
+        "description": "PHP Project metadata definition"
+    },
+    "dependency": ["composer"],
+    "documentation": {
+        "build": "./vendor/bin/apigen"
+    }
+}
